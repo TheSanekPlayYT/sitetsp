@@ -1,0 +1,218 @@
+.header_shapka{	
+	background-color: #171a22; /*Думаю что это пояснений не надо))) А так задний фон*/
+	margin-left: -8px; /*Это для того что бы полосок по краям экрана не было видно*/
+	margin-right: -8px; /*Это для того что бы полосок по краям экрана не было видно*/
+	margin-top: -8px; /*Это для того что бы нечего не улетело с шапочки*/
+	min-height: 14vh
+}
+.header_text1{                                            /*КНОПКА ВОЙТИ*/
+	color: #D3D3D3; /*цвет букв*/
+	font-size: 14px; /*размер шрифта*/
+	margin-left: 1265px; /*Это на сколько войти и язык унесены вправо*/
+	line-height: 40px; /*длина тип блока*/
+	word-spacing: 6px; /*это меж словарный (буквенный) интервал*/
+	text-decoration: none;
+	font-family: Comic Sans MS, Comic Sans, cursive;
+}
+span{             /*Это у нас знак между войти и язык, палка короче*/
+	color:#D3D3D3;
+	margin-left: 15px;
+}
+
+/*.header_text2{
+/*	color: #D3D3D3; /*цвет букв*/
+/* font-size: 14px; /*размер шрифта*/
+/*	margin-left: 1320px; /*Это на сколько войти и язык унесены вправо*/
+/*	line-height: 40px; /*длина тип блока*/
+/*	word-spacing: 6px; /*это меж словарный (буквенный) интервал*/
+/*	margin-top: -39px;
+}*/
+.header_text2{
+	color: #D3D3D3; /*цвет букв*/
+	font-size: 14px; /*размер шрифта*/
+	margin-left: 1340px; /*Это на сколько войти и язык унесены вправо*/
+	line-height: 0px; /*длина тип блока*/
+	word-spacing: 6px; /*это меж словарный (буквенный) интервал*/
+	display: block;
+	margin-top: -20px;
+	text-decoration: none;
+	font-family: Comic Sans MS, Comic Sans, cursive;
+	
+}
+.header_face{
+	width: 6%;
+	margin-left: 400px; /*margin отвечает за движение блока (объекта как я понял)*/	
+}
+.header_magaz{
+	color: #D3D3D3;
+	font-size: 20px;
+	margin-left: 100px;
+	vertical-align: 3.5vh;
+	text-decoration: none;
+	font-family: Comic Sans MS, Comic Sans, cursive;
+}
+.header_opgg{
+	color: #D3D3D3;
+	font-size: 20px;
+	margin-left: 120px;
+	vertical-align: 3.5vh;
+	text-decoration: none;
+	font-family: Comic Sans MS, Comic Sans, cursive;
+}
+.header_support{
+	color: #D3D3D3;
+	font-size: 20px;
+	margin-left: 140px;
+	vertical-align: 3.5vh;
+	text-decoration: none;
+	font-family: Comic Sans MS, Comic Sans, cursive;
+}
+body{
+	background-color: #DCDCDC;
+}
+
+
+
+
+/*Это у нас центр пошел сама инфа и тому подобное--------------------------------------------------------------*/
+
+
+
+
+.main_kurtka{
+	background-color: #DCDCDC;  
+	margin-left: -8px; /*Это для того что бы полосок по краям экрана не было видно*/
+	margin-right: -8px; /*Это для того что бы полосок по краям экрана не было видно*/
+	min-height: 90vh;
+}
+.containerPink{
+	background-color: none;
+}
+.skidka{
+	width: 220vh;
+	height: 85vh;
+}
+.liker1{
+	font-size: 20px; /*размер шрифта*/
+	list-style-type: none;
+	font-family: Comic Sans MS, Comic Sans, cursive;
+	margin-left: 5%;
+	
+}
+.liker2{
+	font-size: 20px; /*размер шрифта*/
+	list-style-type: none; /*убрать круглый какишь у списка*/
+	font-family: Comic Sans MS, Comic Sans, cursive;
+	margin-left: 40%; 
+	margin-top: -31px;
+}
+.liker3{
+	font-size: 20px; /*размер шрифта*/
+	list-style-type: none;
+	font-family: Comic Sans MS, Comic Sans, cursive;
+	margin-left: 70%;
+	margin-top: -29px;
+}
+.podliker1{
+	font-size: 14px; /*размер шрифта*/
+	list-style-type: none;
+	font-family: Comic Sans MS, Comic Sans, cursive;
+	margin-left: 5%;
+	margin-top: 25px;
+}
+.podliker2{
+	font-size: 14px; /*размер шрифта*/
+	list-style-type: none;
+	font-family: Comic Sans MS, Comic Sans, cursive;
+	margin-left: 40%;
+	margin-top: -19px;
+}
+.podliker3{
+	font-size: 14px; /*размер шрифта*/
+	list-style-type: none;
+	font-family: Comic Sans MS, Comic Sans, cursive;
+	margin-left: 70%;
+	margin-top: -19px;
+}
+/*llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllltestlllllllllllllllllTESTTTTTTL*/
+.lupa_text1{
+	font-style: normal;
+	font-weight: 500;
+	font-size: 24px;
+	line-height: 36px;
+	text-align: center;
+	padding: 0;
+	margin: 0 0 32px;
+	color: #333;
+	font-weight: bold;
+	margin-top: 2vh;
+	
+}
+.lupa_text2{
+	font-style: normal;
+	font-weight: 500;
+	font-size: 24px;
+	line-height: 36px;
+	text-align: center;
+	padding: 0;
+	margin: 0 0 32px;
+	color: #333;
+	font-weight: bold;
+	margin-top: 10vh;
+}
+h1 {
+	font-family: Comic Sans MS, Comic Sans, cursive;
+	text-decoration: none;
+}
+h2 {
+	font-family: Comic Sans MS, Comic Sans, cursive;
+	text-decoration: none;
+}
+.kartina1{
+	width: 65vh;
+	height: 37.6vh;
+	margin-left: 30px;
+}
+.kartina2{
+	width: 65vh;
+	height: 37.6vh;
+}
+.kartina3{
+	width: 50vh;
+	height: 37.6vh;
+}
+
+	
+
+/*Подвал информация в крации что о чем и как--------------------------------------------------*/
+
+
+
+.footer_shtani{
+	background-color: #171a22;
+	margin-left: -8px; /*Это для того что бы полосок по краям экрана не было видно*/
+	margin-right: -8px; /*Это для того что бы полосок по краям экрана не было видно*/
+	line-height: 100px; /*длина тип блока*/
+}
+.footer_face{
+	width: 4%; /*ширина*/
+}
+.footer_text{
+	color: #8F98A0; /*цвет букв*/
+	font-size: 14px; /*размер шрифта*/
+	word-spacing: 2px; /*отступ между буквами*/
+	margin-top: -80px;
+}
+.hh1{
+	text-align: center;
+	font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+
+
+
+
+
+
+/*цвета для использования читать не надо,при выступление!*/
+/*#171a21 стим              <div class="header_text2">|</div>*/
